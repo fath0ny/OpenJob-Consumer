@@ -16,8 +16,6 @@ This repository is the **consumer** side of the OpenJob message broker setup. Th
 - [Environment Variables](#environment-variables)
 - [Email Notification](#email-notification)
 - [Available Scripts](#available-scripts)
-- [Reliability Notes](#reliability-notes)
-- [Possible Improvements](#possible-improvements)
 - [License](#license)
 
 ---
